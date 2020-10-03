@@ -1,0 +1,142 @@
+html, body {
+    margin: 0;
+    padding: 0;    
+
+}
+
+.body {
+    background-color : rgb(255, 255, 255) ; 
+    text-align: center;
+}
+
+.main {
+    height: 100vh;
+    width: 100vw;
+    display: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.navbar-nav{    
+    font-size: x-large;
+}
+
+.name-container {
+    top: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.name {
+    font-size: 50px;
+}
+.subName {
+    font-size: 25px;
+}
+
+#about-me-header.text{
+    background-color: lightslategray;
+    text-align: center;    
+
+}
+
+#about-me-text {
+    height: 25vh;
+    width: 50vw;
+    font-style: italic;
+    display: center;     
+
+}
+
+#experiences-header {
+    background-color: lightslategray;
+    text-align: center; 
+
+}
+
+#experiences-header.text {
+    background-color: lightslategray;
+    text-align: center; 
+    font-size: 100px;
+    
+
+}
+
+#portfolio {
+    text-align: center;
+    padding: 5%;
+    background-color: #a9adb1;
+}
+
+.card-deck {
+    margin-bottom: 2%;
+    padding: 5%;
+}
+
+.card-title{
+    margin-top: 5%;
+}
+
+.resume-document {
+    width: 35px;
+    height: 35px;
+}
+
+.resume-container {
+    display: flex;
+    justify-content: center;
+}
+
+.text {
+    font-size: 3rem;
+}
+
+.navbar {
+    position: fixed !important;
+}
+
+.bg-light {
+   background-blend-mode: normal ;
+}
+
+.jumbotron {
+    background: url("./assets/photo-1519046904884-53103b34b206.jpg")fixed;
+    background-size: cover;
+    height: 100vh;
+}
+
+.github-project {
+    width: 50px;
+    height: 50px;
+}
+
+#contact {    
+    display: center ;
+    text-align: center;   
+    margin-top: 5%;  
+}
+
+.ul class {
+    margin-left: 75%;
+}
+
+ #p style { 
+     margin-left: 100px;
+
+}
+
+.ul class {
+    margin-left: 200px;
+}
+
+#footer {
+    background-color: lightskyblue;
+    margin-top: 5%;
+}
+
+
+
+
+
